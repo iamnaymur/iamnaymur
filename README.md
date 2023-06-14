@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
+</div>
 
 <h3 align="center">A passionate frontend developer from Bangladesh😀</h3>
 <p>🌱 I'm a passionate beginner in the field of web development, eager to learn and grow. I believe in the power of technology to make a positive impact, and I'm excited to be part of this ever-evolving industry.</p>
