@@ -10,7 +10,7 @@
 <p>🌟 Let's connect! Feel free to explore my repositories, provide feedback, or reach out for collaboration and mentorship opportunities. Together, let's shape the future of the web!</p>
 <p>**💪The best is yet to be!**</p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">How to reach me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nymur-rahman-b76269178/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nymur-rahman-b76269178/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/tusher2001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/tusher2001" height="30" width="40" /></a>
