@@ -9,6 +9,7 @@
 <p>🎯 My goals are to collaborate with like-minded developers, contribute to open-source projects, and continue building real-world applications to refine my skills. I'm always looking for opportunities to learn from experienced professionals and contribute to the web development community.</p>
 <p>🌟 Let's connect! Feel free to explore my repositories, provide feedback, or reach out for collaboration and mentorship opportunities. Together, let's shape the future of the web!</p>
 <h4>💪The best is yet to be!</h4>
+<h4>💎Building my life with keystrokes.</h4>
 
 
 <h3 align="left">How to reach me:</h3>
