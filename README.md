@@ -8,7 +8,8 @@
 <p>🚀 My GitHub repositories showcase my journey as I learn and experiment with various projects. They may not be perfect, but each one represents a valuable learning experience for me.</p>
 <p>🎯 My goals are to collaborate with like-minded developers, contribute to open-source projects, and continue building real-world applications to refine my skills. I'm always looking for opportunities to learn from experienced professionals and contribute to the web development community.</p>
 <p>🌟 Let's connect! Feel free to explore my repositories, provide feedback, or reach out for collaboration and mentorship opportunities. Together, let's shape the future of the web!</p>
-<p>**💪The best is yet to be!**</p>
+<h4>💪The best is yet to be!</h4>
+
 
 <h3 align="left">How to reach me:</h3>
 <p align="left">
