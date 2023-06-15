@@ -6,7 +6,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh😀</h3>
 <p>🌱 I'm a passionate beginner in the field of web development, eager to learn and grow. I believe in the power of technology to make a positive impact, and I'm excited to be part of this ever-evolving industry.</p>
 <p>🚀 My GitHub repositories showcase my journey as I learn and experiment with various projects. They may not be perfect, but each one represents a valuable learning experience for me.</p>
-<p>🎯 My goals are to collaborate with like-minded developers, contribute to open-source projects, and continue building real-world applications to refine my skills. I'm always looking for opportunities to learn from experienced professionals and contribute to the web development community.</p>
+<p>🎯 I'm always looking for opportunities to learn from experienced professionals and contribute to the web development community.</p>
 <p>🌟 Let's connect! Feel free to explore my repositories, provide feedback, or reach out for collaboration and mentorship opportunities. Together, let's shape the future of the web!</p>
 <h4>💪The best is yet to be!</h4>
 <h4>💎Building my life with keystrokes.</h4>
