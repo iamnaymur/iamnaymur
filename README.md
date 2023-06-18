@@ -11,7 +11,7 @@
 <p>💪The best is yet to be!</p>
 <p>💎Building my life with keystrokes.</p>
 <p>🙌A guy who loves to travel and explore new places.</p>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/LSsT.gif">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/9wAI.gif">
 
 
 <h3 align="left">How to reach me:</h3>
