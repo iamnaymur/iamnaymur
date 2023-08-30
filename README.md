@@ -1,8 +1,8 @@
-<h1 align="center">Hi there 👋</h1>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 </div>
 
+<h1 align="center">Hi there 👋</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh😀</h3>
 <div align='left'>
 <p>🔍 Currently diving deep into php/shopify to expand my skillset and build exciting projects.</p>
