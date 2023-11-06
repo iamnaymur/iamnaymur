@@ -13,6 +13,7 @@
 <p>💪The best is yet to be!</p>
 <p>💎Building my life with keystrokes.</p>
 <p>🙌A guy who loves to travel and explore new places.</p>
+<p>Currently learning python.🤭</p>
 </div>
 <!-- <div align="right">
   <img  alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
