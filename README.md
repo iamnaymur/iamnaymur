@@ -10,10 +10,9 @@
 <p>🚀 My GitHub repositories showcase my journey as I learn and experiment with various projects. They may not be perfect, but each one represents a valuable learning experience for me.</p>
 <p>🎯 I'm always looking for opportunities to learn from experienced professionals and contribute to the web development community.</p>
 <p>🌟 Let's connect! Feel free to explore my repositories, provide feedback, or reach out for collaboration and mentorship opportunities. Together, let's shape the future of the web!</p>
-<p>💪The best is yet to be!</p>
 <p>💎Building my life with keystrokes.</p>
 <p>🙌A guy who loves to travel and explore new places.</p>
-<p>Currently learning python.🤭</p>
+<p>🤖Currently learning C Program🤭</p>
 </div>
 <!-- <div align="right">
   <img  alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
