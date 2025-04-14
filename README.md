@@ -4,10 +4,7 @@
 
 </div>
 
-<h2 align="center">Crafting Experiences with Code</h2>
-
-Hello ! My name is **Naymur Rahman**, and I am a passionate web developer from Bangladesh, continuously exploring and learning with every project I build. I'm always open to feedback, collaboration, and mentorship—let's shape the future of tech together!
-
+<h2 align="center">Chasing cosmic dreams through code, learning endlessly</h2>
 
 ### Contact
 
@@ -17,9 +14,5 @@ Hello ! My name is **Naymur Rahman**, and I am a passionate web developer from B
 </a>
 <a target="_blank" href="https://naymurs-portfolio.netlify.app/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>	
 
-
 ### Languages and Tools 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,ts,react,figma,bootstrap,tailwind,express,firebase,git,github,mongodb,nodejs,postman,nextjs,vite,webstorm)](https://skillicons.dev)
-
-
-<i>Feel free to reach out for collaborations or just to connect!</i>
