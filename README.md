@@ -26,18 +26,17 @@
 #define tata return 0;
 #define br '\n'
 using namespace std;
-
 int main()
 {
     khela_hobe;
     barbar_sudhu_amar_uporei_KENOO
     {
         // Welcome to my github
+        bool found_what_you_seek = false;
         while(!found_what_you_seek) {
             cout << "Keep exploring..." << br;
             found_what_you_seek = true;
         }
-
         // Congrats, you found it!!!
         cout << "Great! Now let's connect: nymur.me | LinkedIn | Facebook" << br;
         break;
